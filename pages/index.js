@@ -23,7 +23,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center h-screen">
       <Head>
-        <title>Google Clone</title>
+        <title>Moogle</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -31,13 +31,47 @@ export default function Home() {
       <header className="flex w-full p-5 justify-between text-sm text-gray-700">
         {/* Left */}
         <div className="flex space-x-4 items-center">
-          <p className="link">About</p>
-          <p className="link">Store</p>
+          <p className="link">
+            <a href="https://vanshajcoder.web.app" target="_blank">
+              About
+            </a>
+          </p>
+          <p className="link">
+            <a
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdEMQkixmFRF-7EbivkHADXQ9kfbpazop6B3zh1YyK8hXLKDQ/viewform?usp=sf_link"
+              target="_blank"
+            >
+              Contact
+            </a>
+          </p>
+          <p className="link">
+            <a href="https://hammr.pages.dev" target="_blank">
+              Hammr
+            </a>
+          </p>
+          <p className="link">
+            <a href="https://bhhatsapp.vercel.app/" target="_blank">
+              Bhhatsapp
+            </a>
+          </p>
         </div>
         {/* Right */}
         <div className="flex space-x-4 items-center">
-          <p className="link">Gmail</p>
-          <p className="link">Images</p>
+          <p className="link">
+            <a href="https://mooglemaps.pages.dev" target="_blank">
+              Maps
+            </a>
+          </p>
+          <p className="link">
+            <a href="https://ggl-drive-1029.web.app" target="_blank">
+              Drive
+            </a>
+          </p>
+          <p className="link">
+            <a href="https://mewtube-op.web.app/" target="_blank">
+              Mewtube
+            </a>
+          </p>
 
           <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer" />
           <Avatar url="https://i.pinimg.com/280x280_RS/6e/b4/85/6eb485ea9b6e63e186c659f0ac8be188.jpg" />
@@ -70,7 +104,7 @@ export default function Home() {
 
         <div className="flex flex-col w-1/2 space-y-2 justify-center mt-8 sm:space-y-0 sm:flex-row sm:space-x-4">
           <button onClick={search} className="btn">
-            Google Search
+            Moogle Search
           </button>
           <button onClick={search} className="btn">
             I'm Feeling Lucky

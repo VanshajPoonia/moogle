@@ -18,10 +18,10 @@ export default function Footer() {
         </div>
         <div className="flex justify-center space-x-8 whitespace-nowrap md:justify-self-start">
           <p>
-            <a href="http://patreon.com/vanshajpoonia">Support</a>
+            <a href="https://patreon.com/vanshajpoonia">Support</a>
           </p>
           <p>
-            <a href="http://hypnosys.business.site" target="_blank">
+            <a href="https://hypnosys.business.site" target="_blank">
               Business
             </a>
           </p>

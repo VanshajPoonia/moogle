@@ -3,7 +3,7 @@ A Google clone built using [NextJs](https://nextjs.org/) and [Tailwind CSS](http
 
 ## Live demo![Screenshot (280)]
 
-[https://google-next-js-clone.vercel.app/](https://moogle.vercel.app/)
+[https://moogle.vercel.app/](https://moogle.vercel.app/)
 
 [![Screenshot](https://user-images.githubusercontent.com/74147463/138558412-e8b7fa8b-0577-40bf-8d04-d6e6cc4a4b31.png)](https://moogle.vercel.app)
 

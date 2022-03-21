@@ -1,7 +1,7 @@
 # Google Clone
 A Google clone built using [NextJs](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
-## Live demo![Screenshot (280)]
+## Live demo!
 
 [https://moogle.vercel.app/](https://moogle.vercel.app/)
 
